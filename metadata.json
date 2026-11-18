@@ -1,0 +1,6 @@
+{
+  "name": "Videon AI Studio",
+  "description": "Create Anything. Imagine Everything. All-in-one Liquid Glass AI video, image, audio, character consistency, and video editing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
